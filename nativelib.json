@@ -1,0 +1,14 @@
+{
+  "name": "firebase-core",
+  "description": "Firebase core package for Godot engine",
+  "version": "0.1.0",
+  "license": "MIT",
+  "url": "https://github.com/DrMoriarty/godot-firebase-core.git",
+  "dependencies": [
+  ],
+  "platform_android": {
+    "files": {
+      "android": "android/firebase-core/"
+    }
+  }
+}
